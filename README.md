@@ -1,3 +1,3 @@
-# HFinder is an application for a smart jewerley used for getting to victim in need.
-Further descriptions will folow.
+# HFinder is an application for a smart jewerley. Hfinder helps the owner to get help in case of emergency.
+Further descriptions will follow.
 Cheers!
